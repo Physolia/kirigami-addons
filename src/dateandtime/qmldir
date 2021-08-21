@@ -7,6 +7,7 @@ DatePopup 0.1 DatePopup.qml
 ClockFace 0.1 ClockFace.qml
 Hand 0.1 Hand.qml
 TimePicker 0.1 TimePicker.qml
+TumblerTimePicker 0.1 TumblerTimePicker.qml
 ClockElement 0.1 ClockElement.qml
 TimeInput 0.1 TimeInput.qml
 TimeLabel 0.1 TimeLabel.qml

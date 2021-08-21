@@ -28,5 +28,6 @@ install(FILES
         Hand.qml
         TimeLabel.qml
         TimePicker.qml
+        TumblerTimePicker.qml
         TimeInput.qml
         DESTINATION ${KDE_INSTALL_QMLDIR}/org/kde/kirigamiaddons/dateandtime)
